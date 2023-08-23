@@ -1,0 +1,2 @@
+# teddy-firstproject
+just train
